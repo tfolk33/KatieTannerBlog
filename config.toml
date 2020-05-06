@@ -1,0 +1,12 @@
+baseURL = "http://katieandtanner.com/"
+languageCode = "en-us"
+title = "Katie and Tanner's Blog"
+theme = "dream"
+
+defaultContentLanguage = "en"
+
+[params]
+	author = "Tanner and Kaite"
+	email = "tfolkman33@gmail.com"
+	motto = "We're getting married!"
+	facebook = "events/679094296237426/" 

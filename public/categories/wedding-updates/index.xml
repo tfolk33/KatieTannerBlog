@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wedding Updates on Katie and Tanner&#39;s Blog</title>
+    <link>http://katieandtanner.com/categories/wedding-updates/</link>
+    <description>Recent content in Wedding Updates on Katie and Tanner&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 May 2020 14:19:42 -0400</lastBuildDate>
+    
+	<atom:link href="http://katieandtanner.com/categories/wedding-updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Celebrate with us!</title>
+      <link>http://katieandtanner.com/posts/intro-post/</link>
+      <pubDate>Wed, 06 May 2020 14:19:42 -0400</pubDate>
+      
+      <guid>http://katieandtanner.com/posts/intro-post/</guid>
+      <description>We&amp;rsquo;re getting married!!</description>
+    </item>
+    
+  </channel>
+</rss>
