@@ -1,4 +1,4 @@
-baseURL = "http://katieandtanner.com/"
+baseURL = "https://katieandtanner.netlify.app/"
 languageCode = "en-us"
 title = "Katie and Tanner's Blog"
 theme = "dream"
