@@ -1,5 +1,5 @@
 ---
-title: Celebrate with us!
+title: Sealing Updates!
 date: 2020-05-30T14:19:42-04:00
 #lastmod: 2020-05-30T14:19:42-04:00
 author: Tanner and Katie
